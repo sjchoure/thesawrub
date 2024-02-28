@@ -3,12 +3,15 @@
 layout: home
 
 hero:
-  name: "thesawrub"
+  name: "Saw·Rub"
   text: "Thesaurus for Sourabh"
-  tagline: My great project tagline
+  tagline: Software Engineer @ MIT | AI algorithms, pharmaceutical discovery | SWE Intern @ Meta | MS @ Computer Science
+  image:
+    src: /bgpme.png
+    alt: SawRub logo
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Get Started
       link: /markdown-examples
     - theme: alt
       text: API Examples
