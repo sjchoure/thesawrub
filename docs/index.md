@@ -11,10 +11,10 @@ hero:
     alt: SawRub logo
   actions:
     - theme: brand
-      text: Get Started
+      text: About Me
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Resume
       link: /api-examples
 
 features:
