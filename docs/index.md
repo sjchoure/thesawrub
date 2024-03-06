@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Saw·Rub"
   text: "Thesaurus for Sourabh"
-  tagline: Software Engineer @ MIT | AI algorithms, pharmaceutical discovery | SWE Intern @ Meta | MS @ Computer Science
+  tagline: Software Engineer @ MIT, ex-SWE Intern @ Meta, MSCS @ UT Dallas and talks about whatever is trending...
   image:
     src: /bgpme.png
     alt: SawRub logo
@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Projects
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Work Experience
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Hobby
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
