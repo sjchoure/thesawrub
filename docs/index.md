@@ -12,17 +12,17 @@ hero:
   actions:
     - theme: brand
       text: About Me
-      link: /markdown-examples
+      link: /about-me/index
     - theme: alt
       text: Resume
-      link: /api-examples
+      link: https://drive.google.com/file/d/1uHj49h9wJFvKttPX67nFPSFIJBZHVfSe/view?usp=sharing
 
 features:
-  - title: Projects
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Work Experience
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Hobby
+  - title: Projects
+    details: Showcasing things which I like to hack around
+  - title: Side Hustle
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 

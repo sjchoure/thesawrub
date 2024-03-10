@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,22 +7,29 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "Home", link: "/" },
+      { text: "About Me", link: "/about-me/index" },
     ],
+    logo: { src: "/bgpme.png", width: 24, height: 24 },
 
     sidebar: [
       {
-        text: 'Examples',
+        text: "About Me",
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          { text: "Markdown Examples", link: "/about-me/markdown-examples" },
+          { text: "Runtime API Examples", link: "/about-me/api-examples" },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      { icon: "linkedin", link: "https://linkedin.com/in/sjchoure" },
+      { icon: "github", link: "https://github.com/sjchoure" },
+      { icon: "instagram", link: "https://instagram.com/sjchoure" },
+    ],
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2024 thesawrub",
+    },
+  },
+});
