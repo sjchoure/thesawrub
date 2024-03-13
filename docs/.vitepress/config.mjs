@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "thesawrub",
-  titleTemplate: 'sawrub',
+  titleTemplate: 'thesawrub',
   description: "Thesaurus for Sourabh",
   themeConfig: {
     search: {
