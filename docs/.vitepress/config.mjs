@@ -64,6 +64,23 @@ export default defineConfig({
         },
       ],
       ["link", { rel: "manifest", href: "/site.webmanifest" }],
+      ["meta", { property: "og:url", content: "https://thesawrub.com" }],
+      ["meta", { property: "og:type", content: "website" }],
+      ["meta", { property: "og:title", content: "thesawrub" }],
+      [
+        "meta",
+        { property: "og:description", content: "Thesaurus for Sourabh" },
+      ],
+      ["meta", { property: "og:image", content: "/thesawrub.png" }],
+      ["meta", { property: "twitter:card", content: "summary_large_image" }],
+      ["meta", { property: "twitter:domain", content: "thesawrub.com" }],
+      ["meta", { property: "twitter:url", content: "https://thesawrub.com" }],
+      ["meta", { property: "twitter:title", content: "thesawrub" }],
+      [
+        "meta",
+        { property: "twitter:description", content: "Thesaurus for Sourabh" },
+      ],
+      ["meta", { property: "twitter:image", content: "/thesawrub.png" }],
     ],
     footer: {
       message: "Released under the MIT License.",
