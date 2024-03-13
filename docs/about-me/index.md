@@ -1,5 +1,6 @@
 ---
 layout: doc
+lastUpdated: true
 ---
 <img src="/me.jpg" alt="drawing" width="500"/>
 
