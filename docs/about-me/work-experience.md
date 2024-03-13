@@ -31,6 +31,10 @@ using hybrid algorithm. Converted time consuming endpoints to asynchronous using
 - Added platform observability tools such as cAdivsor, Prometheus, and Grafana to watch container metrics at regular intervals
 and alert on PagerDuty for any anomalies. Helping get better insights on P99 latencies and ways to reduce them.
 
+::: details Team Photo
+<img src="/mit_team.png" alt="drawing"/>
+:::
+
 ## Meta - Software Engineer Intern
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" alt="drawing" width="200"/>
 
@@ -51,4 +55,8 @@ and thus helping the team to roll out features ahead of time.
 engineer’s information making the change. Visualizing those changes live using Gantt Chart.
 - Reduced manual effort by creating continuous integration/deployment framework to validate configuration file changes
 upon mutation. Also, unit test and end to end test both in frontend (React) and backend (PHP).
+
+::: details Team Photo
+<img src="/Meta_team.jpeg" alt="drawing"/>
+:::
 
