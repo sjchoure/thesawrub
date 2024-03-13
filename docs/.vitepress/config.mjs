@@ -8,19 +8,24 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "About Me", link: "/about-me/index" },
+      { text: "About Me", link: "/about-me/", activeMatch: '/about-me/' },
     ],
     logo: { src: "/bgpme.png", width: 24, height: 24 },
 
-    sidebar: [
-      {
-        text: "About Me",
-        items: [
-          { text: "Markdown Examples", link: "/about-me/markdown-examples" },
-          { text: "Runtime API Examples", link: "/about-me/api-examples" },
-        ],
-      },
-    ],
+    sidebar: {
+      "/about-me/": [
+        {
+          text: "About Me",
+          collapsed: false,
+          items: [
+            { text: "Introduction", link: "/about-me/" },
+            { text: "Work Experience", link: "/about-me/work-experience" },
+            { text: "Projects", link: "/about-me/projects" },
+            { text: "Side Hustle", link: "/about-me/side-hustle" },
+          ],
+        },
+      ],
+    },
 
     socialLinks: [
       { icon: "linkedin", link: "https://linkedin.com/in/sjchoure" },

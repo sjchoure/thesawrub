@@ -20,9 +20,15 @@ hero:
 features:
   - title: Work Experience
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    linkText: Let's go
+    link: /about-me/work-experience
   - title: Projects
     details: Showcasing things which I like to hack around
+    linkText: Learn more
+    link: /about-me/projects
   - title: Side Hustle
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    linkText: Interesting
+    link: /about-me/side-hustle
 ---
 
