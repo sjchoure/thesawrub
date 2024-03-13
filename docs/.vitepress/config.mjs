@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'en-US',
   title: "thesawrub",
   titleTemplate: "thesawrub",
   description: "Thesaurus for Sourabh",
@@ -49,6 +50,7 @@ export default defineConfig({
     ["meta", { property: "twitter:image", content: "/thesawrub.png" }],
   ],
   themeConfig: {
+    
     search: {
       provider: "local",
     },
