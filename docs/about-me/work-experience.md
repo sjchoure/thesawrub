@@ -8,6 +8,15 @@ layout: doc
 *Location: Boston, MA*  
 *Duration: Febuary 2023 - Present*
 
+
+::: tip TL;DR
+
+When chemists start with a desired molecule and work backward to figure out the best pathway forward—is a time and resource consuming task, relying heavily on manual analysis and trial and error. AI and machine learning capabilities can streamline and optimize this process.
+
+Please visit [askcos.mit.edu](https://askcos.mit.edu) to explore the tool! And [askcos-docs.mit.edu](https://askcos-docs.mit.edu) to learn more.
+
+:::
+
 - Working under the guidance of MIT Prof. Connor W. Coley’s (Forbes 30 Under 30 Healthcare) research lab and collaborated
 with the MIT Corporate Consortium (10+ Companies) for Machine Learning for Pharmaceutical Discovery and Synthesis
 (MLPDS) to develop innovative AI-assisted tools and algorithms that are used by multiple pharmaceutical companies.
@@ -26,6 +35,12 @@ and alert on PagerDuty for any anomalies. Helping get better insights on P99 lat
 
 *Location: Menlo Park, CA*  
 *Duration: May 2022 - August 2022*
+
+::: tip TL;DR
+
+Web app development, Distributed systems, Stream processing, Test automation and Logging.
+
+:::
 
 - Creation of Policy Management Tool to manage User’s Special Category Data (SCD), which helped in filtering out certain
 user’s data based on their district such as GDPR for EU.
