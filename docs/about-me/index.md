@@ -1,6 +1,7 @@
 ---
 layout: doc
 lastUpdated: true
+title: "Introduction"
 ---
 <img src="/me.jpg" alt="drawing" width="500"/>
 
